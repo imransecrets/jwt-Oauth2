@@ -1,6 +1,11 @@
 # jwt-Oauth2
 ## Access Tokens
+
 https://excalidraw.com/#json=GQoksGFe_vkEQH6qX2sMZ,Sq4OVl9XyZopy-rGP8Ki1A
+
+![image](https://github.com/imransecrets/jwt-Oauth2/assets/8496861/3297d4b0-1fc5-4a5d-b099-031291a7688b)
+
+
 Access tokens are like digital keys that allow applications to access resources on behalf of a user.
 
  A "token" is just a string with some content that we can use later to verify this user. Normally, a token is set to expire after some time. 
