@@ -3,7 +3,8 @@
 
 https://excalidraw.com/#json=GQoksGFe_vkEQH6qX2sMZ,Sq4OVl9XyZopy-rGP8Ki1A
 
-![image](https://github.com/imransecrets/jwt-Oauth2/assets/8496861/3297d4b0-1fc5-4a5d-b099-031291a7688b)
+![image](https://github.com/imransecrets/jwt-Oauth2/assets/8496861/2bdf97ec-670b-42d7-a183-ea61a258ab16)
+
 
 
 Access tokens are like digital keys that allow applications to access resources on behalf of a user.
